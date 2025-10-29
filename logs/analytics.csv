@@ -1,0 +1,9 @@
+timestamp,session_id,user_name,message,sentiment,duration_sec
+2025-10-29T14:58:52.796170,qi01agq8f7,Karthik,Karthik,POSITIVE,0
+2025-10-29T14:58:59.317867,qi01agq8f7,Karthik,how are you,NEGATIVE,2
+2025-10-29T14:59:25.304854,qi01agq8f7,Karthik,no I want to understand revanth,NEGATIVE,5
+2025-10-29T14:59:47.192853,qi01agq8f7,Karthik,love you,POSITIVE,1
+2025-10-29T14:59:56.933327,qi01agq8f7,Karthik,i love him,POSITIVE,1
+2025-10-29T15:01:22.589458,i0uilqfb1bh,Sharwan,Sharwan,POSITIVE,0
+2025-10-29T15:01:38.651507,i0uilqfb1bh,Sharwan,i want to know revanth,POSITIVE,7
+2025-10-29T15:02:20.076938,i0uilqfb1bh,Sharwan,i hate him,NEGATIVE,2

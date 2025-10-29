@@ -1,0 +1,40 @@
+{
+  "Karthik": {
+    "email": "unknown",
+    "joined": "2025-10-29T14:45:32.786439",
+    "interests": [],
+    "sentiments": [
+      "NEGATIVE",
+      "POSITIVE",
+      "NEGATIVE",
+      "POSITIVE",
+      "NEGATIVE",
+      "NEGATIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ],
+    "last_chat": "2025-10-29T14:59:56.888116"
+  },
+  "Pranav": {
+    "email": "unknown",
+    "joined": "2025-10-29T14:47:21.990165",
+    "interests": [
+      "AI/Agents"
+    ],
+    "sentiments": [
+      "POSITIVE",
+      "POSITIVE"
+    ],
+    "last_chat": "2025-10-29T14:47:32.495735"
+  },
+  "Sharwan": {
+    "email": "unknown",
+    "joined": "2025-10-29T15:01:38.596396",
+    "interests": [],
+    "sentiments": [
+      "POSITIVE",
+      "NEGATIVE"
+    ],
+    "last_chat": "2025-10-29T15:02:20.034594"
+  }
+}
